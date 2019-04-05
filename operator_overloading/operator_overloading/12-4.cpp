@@ -73,12 +73,12 @@ namespace ex_12_4 {
 
 using namespace ex_12_4;
 
-int main()
-{
-	Calc * CalcPtr;
-	CalcPtr = new Add(3, 5);
-	CalcPtr->Prn();
-
-
-	return 0;
-}
+//int main()
+//{
+//	Calc * CalcPtr;
+//	CalcPtr = new Add(3, 5);
+//	CalcPtr->Prn();
+//
+//
+//	return 0;
+//}
